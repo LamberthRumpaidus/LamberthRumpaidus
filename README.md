@@ -16,7 +16,7 @@ I'm a passionate web developer with a strong commitment to crafting secure and s
 ## My Projects
 ### Rubaka
 An engaging game that combines exciting mechanics and immersive gameplay.  
-[Play Rubaka](https://lamberthrumpaidus.github.io/rubaka)
+[Play Rubaka](https://lamberthrumpaidus.github.io)
 
 ### uDork
 A tool designed to find sensitive information on the web using search engines.  
