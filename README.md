@@ -30,7 +30,7 @@ A tool designed to find sensitive information on the web using search engines.
 
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-LamberthRumpaidus-blue?style=for-the-badge&logo=github)](https://github.com/LamberthRumpaidus/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamberth&nbsp;Paulinus&nbsp;Rumpaidus-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lamberth-rumpaidus-99343a2b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamberth&nbsp;Rumpaidus-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lamberth-rumpaidus-99343a2b4/)
 [![TikTok](https://img.shields.io/badge/TikTok-nggakpeduligua-blue?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@nggakpeduligua/)
 [![Facebook](https://img.shields.io/badge/Facebook-Lamberthrumpaidus-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/lamberthrumpaidus/)
 [![Instagram](https://img.shields.io/badge/Instagram-tech_vigilante-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/tech_vigilante/)
