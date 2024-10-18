@@ -18,7 +18,7 @@ Saya adalah pengembang web yang bersemangat dan berkomitmen untuk menciptakan ap
 
 ### 1. Rubaka
 Permainan menarik dengan mekanika seru.  
-🔗 [Mainkan Rubaka](https://lamberthrumpaidus.github.io)
+🔗 [Mainkan Rubaka](https://rubaka.netlify.app/)
 
 ### 2. uDork
 Alat untuk menemukan informasi sensitif di web.  
