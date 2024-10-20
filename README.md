@@ -9,12 +9,12 @@ Saya adalah pengembang web yang bersemangat dan berkomitmen untuk menciptakan ap
 - **Kerja Tim**: Menghargai kolaborasi dan inovasi.
 - **Pembelajar Seumur Hidup**: Selalu mencari pengetahuan baru.
 
-### Hubungi Saya
+## Hubungi Saya
 📫 [Email Saya](mailto:lamberthpaulinusrumpaidus@gmail.com)
 
 
 
-### 📂 Portfolio
+## 📂 Portfolio
 Access my portfolio [in here](https://lamberthrumpaidus.netlify.app/)
 
 ---
@@ -44,6 +44,7 @@ Alat untuk menemukan informasi sensitif di web.
 - Facebook: [Lamberthrumpaidus](https://www.facebook.com/lamberthrumpaidus/)
 - Instagram: [tech_vigilante](https://www.instagram.com/tech_vigilante/)
 
+---
 
 ## 🛠️ Keahlian
 
