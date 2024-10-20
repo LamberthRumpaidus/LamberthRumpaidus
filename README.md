@@ -15,7 +15,7 @@ Saya adalah pengembang web yang bersemangat dan berkomitmen untuk menciptakan ap
 ---
 
 
-## 📂 Portfolio
+### 📂 Portfolio
 Access my portfolio [in here](https://lamberthrumpaidus.netlify.app/)
 
 ---
