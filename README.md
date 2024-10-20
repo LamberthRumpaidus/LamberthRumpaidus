@@ -12,12 +12,12 @@ Saya adalah pengembang web yang bersemangat dan berkomitmen untuk menciptakan ap
 ### Hubungi Saya
 📫 [Email Saya](mailto:lamberthpaulinusrumpaidus@gmail.com)
 
---
+
 
 ### 📂 Portfolio
 Access my portfolio [in here](https://lamberthrumpaidus.netlify.app/)
 
---
+---
 
 ## 💼 Proyek Saya
 
