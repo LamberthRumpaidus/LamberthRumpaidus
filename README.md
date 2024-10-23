@@ -42,7 +42,7 @@ A tool to discover sensitive information on the web.
 ## 📂 Portfolio
 Access my portfolio here:  
 🔗 [Portfolio](https://lamberthrumpaidus.netlify.app/)
-
+🔗 [Portfolio 3D](https://3d-lamberthrumpaidus.netlify.app)
 ---
 
 ## 🌐 Connect with Me
