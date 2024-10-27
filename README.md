@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
---![Profile View Count](https://img.shields.io/badge/Profile%20Views-0-blue?style=flat-square)
+![Profile View Count](https://img.shields.io/badge/Profile%20Views-0-blue?style=flat-square)
 
 ## 🔍 About Me
 I am a passionate web developer focused on building secure and scalable applications. I also share computer-related tips and tricks and am currently studying computer science, hacking, and penetration testing. I enjoy tackling new challenges and continually seek opportunities to improve my skills.
