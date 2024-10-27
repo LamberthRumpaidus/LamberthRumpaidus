@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-[![Flag Counter](https://s11.flagcounter.com/count2/9Fkm/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/9Fkm)
-
 
 ## 🔍 About Me
 I am a passionate web developer focused on building secure and scalable applications. I also share computer-related tips and tricks and am currently studying computer science, hacking, and penetration testing. I enjoy tackling new challenges and continually seek opportunities to improve my skills.
