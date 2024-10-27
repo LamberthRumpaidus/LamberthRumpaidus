@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-![Profile View Count](https://img.shields.io/badge/Profile%20Views-5-blue?style=flat-square)
+[![Flag Counter](https://s11.flagcounter.com/count2/9Fkm/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/9Fkm)
 
 
 ## 🔍 About Me
